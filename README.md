@@ -7,4 +7,5 @@ This is a bankist website with the following features implemented:
 * lazy loading of images,    
 * smooth scrolling and showing sections,    
 * slider and tabbed component.    
+____    
 A preview of the project: http://An-nett.github.io/bankist-project
